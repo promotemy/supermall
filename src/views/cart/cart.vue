@@ -6,9 +6,9 @@
   </div>
 </template>
 <script>
-import CartNavBar from "./chilComps/CartNavBar";
-import CartList from "./chilComps/CartList";
-import CartBtnBar from "./chilComps/CartCheckBtn";
+import CartNavBar from "./ChilrenCpms/CartNavBar";
+import CartList from "./ChilrenCpms/CartList";
+import CartBtnBar from "./ChilrenCpms/CartCheckBtn";
 export default {
   name: "Cart",
   components: {

@@ -187,6 +187,7 @@ export default {
 }
 .tabControl {
   position: sticky;
+  /* z-index: 10; */
   top: 44px;
 }
 
